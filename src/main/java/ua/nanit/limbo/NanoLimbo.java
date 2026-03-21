@@ -134,9 +134,9 @@ public final class NanoLimbo {
         envVars.put("S5_PORT", "");
         envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
-        envVars.put("ANYTLS_PORT", "11802");
+        envVars.put("ANYTLS_PORT", "13591");
         envVars.put("REALITY_PORT", "");
-        envVars.put("ANYREALITY_PORT", "10280");
+        envVars.put("ANYREALITY_PORT", "14777");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "");
         envVars.put("BOT_TOKEN", "");
